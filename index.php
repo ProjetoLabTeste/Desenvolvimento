@@ -14,6 +14,7 @@ and open the template in the editor.
         // put your code here
         ?>
         <h1>Teste do Projeto de Laboratórios</h1>
-        <input type="email" name="email"  size="60" />
+        <input type="email" name="email"  size="60" /><br>
+        <input type="submit" value="Enviar">
     </body>
 </html>
