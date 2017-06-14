@@ -13,5 +13,7 @@ and open the template in the editor.
         <?php
         // put your code here
         ?>
+        <h1>Teste do Projeto de Laboratórios</h1>
+        <input type="text" name="email" value="" size="60" />
     </body>
 </html>
